@@ -8,9 +8,9 @@
 <section align="center">
   <h1> Welcome to my GitHub </h1>
   <p align="left"><b> About me </b></p>
-<p align="justify"> Estou sempre disposto a contribuir de maneira significativa para a obtenção de resultados, tanto no individual quanto no coletivo, tendo um perfil de proatividade e colaboração, trazendo à tona ideias e sugestões importantes a fim de garantir as melhores soluções para a Equipe. </p>
-  <p align="justify"> Tenho experiência na área administrativa, na qual atuo há mais de 8 anos e, com interesse em migrar para a área Tech, estou realizando alguns cursos voltados para back-end e front-end. Tais capacitações me possibilitaram ter contato com Python, Java, JavaScript, HTML, CSS, entre outras, como podem ver pelos meus repositórios. </p>
-<p align="justify"> Atualmente, estou no 3º semestre do curso de Bacharelado em Tecnologia da Informação, pela Universidade Virtual do Estado de São Paulo - Univesp. </p>
+<p align="justify"> I am always willing to contribute significantly to achieving results, both individually and collectively, having a profile of proactivity and collaboration, bringing up important ideas and suggestions in order to ensure the best solutions for the Team. </p>
+  <p align="justify"> I have experience in the administrative area, in which I have been working for more than 8 years and, with an interest in migrating to the Tech area, I am taking some courses focused on back-end and front-end. Such training allowed me to come into contact with Python, Java, JavaScript, HTML, CSS, among others, as you can see from my repositories. </p>
+<p align="justify"> Currently, I am in the 3rd semester of the Bachelor’s degree in Information Technology, by the Virtual University of the State of São Paulo - Univesp. </p>
 </section>
 
 <section align="center">
