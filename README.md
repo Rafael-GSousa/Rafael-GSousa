@@ -9,8 +9,8 @@
   <h1> Welcome to my GitHub </h1>
   <p align="left"><b> About me </b></p>
 <p align="justify"> I am always willing to contribute significantly to achieving results, both individually and collectively, having a profile of proactivity and collaboration, bringing up important ideas and suggestions in order to ensure the best solutions for the Team. </p>
-  <p align="justify"> I have experience in the administrative area, in which I have been working for more than 8 years and, with an interest in migrating to the Tech area, I am taking some courses focused on back-end and front-end. Such training allowed me to come into contact with Python, Java, JavaScript, HTML, CSS, among others, as you can see from my repositories. </p>
-<p align="justify"> Currently, I am in the 3rd semester of the Bachelor’s degree in Information Technology, by the Virtual University of the State of São Paulo - Univesp. </p>
+  <p align="justify"> I have experience in the administrative area, in which I have been working for more than 10 years and, with an interest in migrating to the Tech area, I am taking some courses focused on back-end and front-end. Such training allowed me to come into contact with Python, Java, JavaScript, HTML, CSS, among others, as you can see from my repositories. </p>
+<p align="justify"> Currently, I am in the last semester of the Bachelor’s degree in Information Technology, by the Virtual University of the State of São Paulo - Univesp. </p>
 </section>
 
 <section align="center">
